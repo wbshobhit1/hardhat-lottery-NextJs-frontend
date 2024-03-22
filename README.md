@@ -1,6 +1,7 @@
-
-
 This is a section of the Javascript Blockchain/Smart Contract 
+
+# For Backend Code
+[BackEnd Repo](https://github.com/wbshobhit1/hardhat-lottery-backend)
 
 
 [Example App here!](https://dry-heart-9843.on.fleek.co)
@@ -16,7 +17,7 @@ Ethers
 Hardhat
 IPFS
 
-- [NextJS Smartcontract Lottery (Raffle) FCC](#nextjs-smartcontract-lottery-raffle-fcc)
+- [NextJS Smartcontract Lottery (Raffle)](#nextjs-smartcontract-lottery-raffle-fcc)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
@@ -55,13 +56,7 @@ yarn
 yarn dev
 ```
 
-## Typescript
 
-If you want to get to typescript and you cloned the javascript version, just run:
-
-```
-git checkout typescript
-```
 
 # Usage
 
@@ -103,7 +98,10 @@ yarn dev
 Head over to your [localhost](http://localhost:3000) and play with the lottery!
 
 
-## Testing
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 # Deploying to IPFS
